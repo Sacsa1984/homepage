@@ -1,0 +1,33 @@
+[33mcommit c6aff1b719ecfd24373f8b88d6442af84d091f4e[m[33m ([m[1;36mHEAD -> [m[1;32mpatch/README.md[m[33m)[m
+Author: Sacsa1984 <Sacsa198444@gmail.com>
+Date:   Thu Dec 16 22:02:49 2021 +0200
+
+    Revert "Revert "Signed-off-by: "Undobracadabra"""
+    
+    This reverts commit b84877d4d8ff2c74820ce953b64ee22e38cb6648.
+
+[33mcommit b84877d4d8ff2c74820ce953b64ee22e38cb6648[m
+Author: Sacsa1984 <Sacsa198444@gmail.com>
+Date:   Thu Dec 16 21:57:42 2021 +0200
+
+    Revert "Signed-off-by: "Undobracadabra""
+    
+    This reverts commit 22c4e15fa74675272247cbd0ac3030f4b714a22b.
+
+[33mcommit 22c4e15fa74675272247cbd0ac3030f4b714a22b[m[33m ([m[1;31morigin/patch/README.md[m[33m)[m
+Author: Sacsa1984 <Sacsa198444@gmail.com>
+Date:   Thu Dec 16 21:56:22 2021 +0200
+
+    Signed-off-by: "Undobracadabra"
+
+[33mcommit 196a391725f188edd41f6d9cb7137183a5ca6b95[m
+Author: Sacsa1984 <Sacsa198444@gmail.com>
+Date:   Thu Dec 16 21:54:11 2021 +0200
+
+    Signed-off-by: "Abracadabra"
+
+[33mcommit 2e9624a072d4572a65c40d69fd6e0b8323679f76[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Sacsa1984 <84661403+Sacsa1984@users.noreply.github.com>
+Date:   Thu Dec 16 21:33:06 2021 +0200
+
+    Initial commit
